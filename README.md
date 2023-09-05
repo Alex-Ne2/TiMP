@@ -16,6 +16,7 @@ Homework
     11.Найдите топ 10 самых "тяжёлых".
 
 Выполнение
+
 ![image](https://github.com/Alex-Ne2/TiMP/blob/main/lab_1_1.png)
 1. image wget ... - скачивание файла и сохранение в текущей директории
 2. image tar -xf - распаковка файла
