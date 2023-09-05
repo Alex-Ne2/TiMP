@@ -18,8 +18,9 @@ Homework
 Выполнение
 1.  wget ... - скачивание файла и сохранение в текущей директории
 ![image](https://github.com/Alex-Ne2/TiMP/blob/main/lab_1_1.png)
-2.  tar -xf - распаковка файла
-3.  ![image](https://github.com/Alex-Ne2/TiMP/blob/main/lab_1_2.png)
+2. распаковка файла
+ ![image](https://github.com/Alex-Ne2/TiMP/blob/main/lab_1_2.png)
+tar -xf - распаковка файла
 tar -C - используется для указания папки
 4. image find -type f - искать файлы
 Команда find передаёт список всех файлов в текущем каталоге с каждым именем файла в одной строке команде wc, которая подсчитывает количество строк и печатает результат
