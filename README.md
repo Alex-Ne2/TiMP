@@ -18,6 +18,7 @@ Homework
 Выполнение
 1.![image](https://github.com/Alex-Ne2/TiMP/blob/main/Lab_1_1.png)
 image wget ... - скачивание файла и сохранение в текущей директории
+
 2. image tar -xf - распаковка файла
 tar -C - используется для указания папки
 3. image find -type f - искать файлы
